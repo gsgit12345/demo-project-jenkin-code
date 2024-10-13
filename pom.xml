@@ -15,8 +15,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>demo-project-jenkin-tutorial</module>
-        <module>demo-project-jenkin-tutorial</module>
-        <module>demo-jenkin-sharedlib</module>
+
+
     </modules>
 
     <artifactId>demo-project-jenkin-code</artifactId>
