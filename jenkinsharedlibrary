@@ -1,0 +1,20 @@
+@Library('demo-jenkin-sharedlib') _
+
+pipeline{
+
+    agent any
+    stages
+    {
+        stage('sharedlibdemo')
+        {
+            steps{
+                welcome("ghanshyam")
+                script
+                {
+                calculator.add(1,4)
+                }
+            }
+        }
+    }
+
+}
