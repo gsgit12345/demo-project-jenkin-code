@@ -13,6 +13,10 @@
     </parent>
     
     <packaging>pom</packaging>
+    <modules>
+        <module>demo-project-jenkin-tutorial</module>
+        <module>demo-project-jenkin-tutorial</module>
+    </modules>
 
     <artifactId>demo-project-jenkin-code</artifactId>
 
