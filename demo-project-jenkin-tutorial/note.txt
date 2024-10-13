@@ -1,1 +1,10 @@
 https://www.youtube.com/watch?v=LkSHWYpiMtM&list=PLH1ul2iNXl7uHUaB1iaXf_lHb7tQDh7Tt&index=11
+
+
+---configuring the shared library
+
+1-create a project where vars and src directory would be available
+2-then go to managejenkins>system > Global Trusted Pipeline Libraries
+
+3-configurethe git repositry with modern scm
+4-groovy function name must be call()
